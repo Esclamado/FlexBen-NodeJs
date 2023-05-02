@@ -1,0 +1,32 @@
+Employee Name: Beck,Jan
+Employee Number: 12034
+Date Submitted:  Tue Jul 19 2022 13:10:20 GMT+0800 (Philippine Standard Time)
+Transaction Number: PWINNOV-3-7192022
+Amount: 4000
+Status: APPROVED
+
+ ======================== DETAILS ======================== 
+CATEGORY: APPLIANCE Claim Category
+
+Item #: 1
+Date:  Tue Jul 19 2022 00:00:00 GMT+0800 (Philippine Standard Time)
+OR Number: APP_12345
+Name of Establishment: SM Supermarket
+TIN of Establishment: APP_012345
+Amount: 2000
+Status: APPROVED
+
+
+
+CATEGORY: FOOD, RESTAURANT & GROCERIES Claim Category
+
+Item #: 2
+Date:  Tue Jul 19 2022 00:00:00 GMT+0800 (Philippine Standard Time)
+OR Number: MCDO_234567
+Name of Establishment: MCDO
+TIN of Establishment: MC_012345
+Amount: 2000
+Status: APPROVED
+
+
+

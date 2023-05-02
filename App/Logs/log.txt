@@ -1,0 +1,4 @@
+********************************************************************************
+Date/Time: 7/19/2022
+Exception Info: {"status":500,"statusText":"Internal Server Error","message":"jwt expired","error":{"code":"INTERNAL_SERVER_ERROR","message":"jwt expired"},"requestInfo":{"hostname":"localhost","path":"/api/deleteFlexReimbursement"}}
+********************************************************************************
